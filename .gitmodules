@@ -10,12 +10,12 @@
 [submodule "src/msgpack11"]
 	path = src/msgpack11
 	url = https://github.com/SICKAG/msgpack11.git
-[submodule "src/nmea_navsat_driver"]
-	path = src/nmea_navsat_driver
-	url = https://github.com/ATB-potsdam-automation/nmea_navsat_driver.git
 [submodule "src/ros2_socketcan"]
 	path = src/ros2_socketcan
 	url = https://github.com/autowarefoundation/ros2_socketcan.git
 [submodule "src/pointcloud_pipeline"]
 	path = src/pointcloud_pipeline
 	url = https://github.com/ATB-potsdam-automation/pointcloud_pipeline.git
+[submodule "src/nmea_navsat_driver"]
+	path = src/nmea_navsat_driver
+	url = https://github.com/ATB-potsdam-automation/nmea_navsat_driver.git
