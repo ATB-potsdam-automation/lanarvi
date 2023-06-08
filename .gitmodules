@@ -1,6 +1,6 @@
 [submodule "src/ceol_base"]
 	path = src/ceol_base
-	url = https:/github.com/ATB-potsdam-automation/ceol_base.git
+	url = https://github.com/ATB-potsdam-automation/ceol_base.git
 [submodule "src/sick_scan_xd"]
 	path = src/sick_scan_xd
 	url = https://github.com/ATB-potsdam-automation/sick_scan_xd.git
