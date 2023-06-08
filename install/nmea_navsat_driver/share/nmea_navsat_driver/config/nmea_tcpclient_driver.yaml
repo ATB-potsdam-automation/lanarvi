@@ -1,0 +1,7 @@
+nmea_navsat_driver:
+  ros__parameters:
+    ip: "192.168.54.3"
+    port: 28002
+    buffer_size: 4096
+    frame_id: "gps_link"
+    publishIMU: true

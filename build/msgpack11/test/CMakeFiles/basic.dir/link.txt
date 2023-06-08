@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/basic.dir/basic.cpp.o -o basic  ../libmsgpack11.a /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a -lz /usr/lib/x86_64-linux-gnu/libgtest.a 

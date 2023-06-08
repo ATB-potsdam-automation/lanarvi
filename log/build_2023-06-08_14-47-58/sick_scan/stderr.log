@@ -1,0 +1,8 @@
+[31mCMake Error at CMakeLists.txt:330 (if):
+  if given arguments:
+
+    "Build sick_scan_xd with LDMRS support (ON, libsick_ldmrs from https://github.com/SICKAG/libsick_ldmrs required) or without LDMRS support (OFF)" "OFF" "OR" "BUILD_WITH_LDMRS_SUPPORT" "EQUAL" "ON"
+
+  Unknown arguments specified
+
+[0m

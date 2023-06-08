@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>ceol_base</name>
+  <version>0.0.0</version>
+  <description>ceol vehicle driver</description>
+
+  <author email="luc.desbos@agreenculture.fr">Luc Desbos</author>
+
+  <maintainer email="luc.desbos@agreenculture.fr">Luc Desbos</maintainer>
+  <maintainer email="tschuette@atb-potsdam.de">Tjark Schuette</maintainer>
+
+  <license>GPLv3</license>
+
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>ament_cmake_python</buildtool_depend>
+
+
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>tf2_ros</depend>
+  <depend>tf2</depend>
+  <depend>std_msgs</depend>
+  <depend>can_msgs</depend>
+  <depend>nav_msgs</depend>
+
+
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+  
+  <export>
+        <build_type>ament_cmake</build_type>
+  </export>
+
+</package>

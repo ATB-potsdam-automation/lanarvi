@@ -1,0 +1,12 @@
+# Definition of ROS service ColaMsg for sick_scan
+# Send a cola message to the Lidar
+# Example call (ROS1):
+# rosservice call /sick_tim_7xx/ColaMsg "{request: 'sEN LIDoutputstate 1'}"
+# 
+
+# 
+# Request (input)
+# 
+
+string request
+

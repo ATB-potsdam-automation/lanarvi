@@ -1,0 +1,15 @@
+[35m[1mConsolidate compiler generated dependencies of target msgpack11[0m
+[ 14%] Built target msgpack11
+[35m[1mConsolidate compiler generated dependencies of target array[0m
+[35m[1mConsolidate compiler generated dependencies of target raw[0m
+[35m[1mConsolidate compiler generated dependencies of target incomplete_data[0m
+[35m[1mConsolidate compiler generated dependencies of target multi[0m
+[35m[1mConsolidate compiler generated dependencies of target object[0m
+[ 21%] [32mBuilding CXX object test/CMakeFiles/basic.dir/basic.cpp.o[0m
+[ 35%] Built target array
+[ 50%] Built target raw
+[ 92%] Built target multi
+[ 92%] Built target incomplete_data
+[ 92%] Built target object
+[100%] [32m[1mLinking CXX executable basic[0m
+[100%] Built target basic

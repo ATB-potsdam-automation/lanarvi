@@ -1,0 +1,1 @@
+Invoking command in '/workspaces/test_ws/lanarvi/build/pointcloud_pipeline': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /workspaces/test_ws/lanarvi/src/pointcloud_pipeline -DCMAKE_INSTALL_PREFIX=/workspaces/test_ws/lanarvi/install/pointcloud_pipeline
