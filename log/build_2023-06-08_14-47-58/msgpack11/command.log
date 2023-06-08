@@ -1,3 +1,0 @@
-Invoking command in '/workspaces/test_ws/lanarvi/build/msgpack11': /usr/bin/cmake /workspaces/test_ws/lanarvi/src/msgpack11 -DCMAKE_INSTALL_PREFIX=/workspaces/test_ws/lanarvi/install/msgpack11
-Invoked command in '/workspaces/test_ws/lanarvi/build/msgpack11' returned '0': /usr/bin/cmake /workspaces/test_ws/lanarvi/src/msgpack11 -DCMAKE_INSTALL_PREFIX=/workspaces/test_ws/lanarvi/install/msgpack11
-Invoking command in '/workspaces/test_ws/lanarvi/build/msgpack11': /usr/bin/cmake --build /workspaces/test_ws/lanarvi/build/msgpack11 -- -j16 -l16

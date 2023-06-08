@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmsgpack11.a CMakeFiles/msgpack11.dir/msgpack11.cpp.o
-/usr/bin/ranlib libmsgpack11.a

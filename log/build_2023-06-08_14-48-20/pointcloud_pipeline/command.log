@@ -1,1 +1,0 @@
-Invoking command in '/workspaces/test_ws/lanarvi/build/pointcloud_pipeline': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /workspaces/test_ws/lanarvi/build/pointcloud_pipeline -- -j16 -l16

@@ -1,1 +1,0 @@
-Invoking command in '/workspaces/test_ws/lanarvi/build/sick_scan': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /workspaces/test_ws/lanarvi/src/sick_scan_xd -DCMAKE_INSTALL_PREFIX=/workspaces/test_ws/lanarvi/install/sick_scan

@@ -1,9 +1,0 @@
-[0.856s] Invoking command in '/workspaces/test_ws/lanarvi/src/ceol_bringup': PYTHONPATH=/workspaces/test_ws/lanarvi/build/ceol_bringup/prefix_override:/workspaces/test_ws/lanarvi/install/ceol_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ceol_bringup build --build-base /workspaces/test_ws/lanarvi/build/ceol_bringup/build install --record /workspaces/test_ws/lanarvi/build/ceol_bringup/install.log --single-version-externally-managed
-[1.043s] running egg_info
-[1.044s] writing ../../build/ceol_bringup/ceol_bringup.egg-info/PKG-INFO
-[1.044s] writing dependency_links to ../../build/ceol_bringup/ceol_bringup.egg-info/dependency_links.txt
-[1.044s] writing entry points to ../../build/ceol_bringup/ceol_bringup.egg-info/entry_points.txt
-[1.045s] writing requirements to ../../build/ceol_bringup/ceol_bringup.egg-info/requires.txt
-[1.045s] writing top-level names to ../../build/ceol_bringup/ceol_bringup.egg-info/top_level.txt
-[1.046s] error: package directory 'ceol_bringup' does not exist
-[1.071s] Invoked command in '/workspaces/test_ws/lanarvi/src/ceol_bringup' returned '1': PYTHONPATH=/workspaces/test_ws/lanarvi/build/ceol_bringup/prefix_override:/workspaces/test_ws/lanarvi/install/ceol_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ceol_bringup build --build-base /workspaces/test_ws/lanarvi/build/ceol_bringup/build install --record /workspaces/test_ws/lanarvi/build/ceol_bringup/install.log --single-version-externally-managed

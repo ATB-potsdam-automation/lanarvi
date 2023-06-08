@@ -1,4 +1,0 @@
-[0.035s] Invoking command in '/workspaces/test_ws/lanarvi/build/ceol_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /workspaces/test_ws/lanarvi/build/ceol_base -- -j16 -l16
-[0.469s] [ 50%] [32mBuilding CXX object CMakeFiles/ceol_node.dir/src/ceol_lanarvi.cpp.o[0m
-[8.315s] [100%] [32m[1mLinking CXX executable ceol_node[0m
-[8.750s] [100%] Built target ceol_node

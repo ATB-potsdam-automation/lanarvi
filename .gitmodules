@@ -16,3 +16,6 @@
 [submodule "src/nmea_navsat_driver"]
 	path = src/nmea_navsat_driver
 	url = https://github.com/ATB-potsdam-automation/nmea_navsat_driver.git
+[submodule "src/ceol_bringup"]
+	path = src/ceol_bringup
+	url = https://github.com/ATB-potsdam-automation/ceol_bringup.git
